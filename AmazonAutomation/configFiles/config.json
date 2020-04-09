@@ -1,0 +1,10 @@
+{
+"webUrl": "https://www.amazon.com/",
+"product": "Samsung Galaxy S9",
+"childXpath_Image": "//img[@class='s-image']",
+"name": "Juan Perez",
+"email": "juanperez@gmail.com",
+"password": "123456",
+"re_enterpwd": "123456",
+"textToValidate": "Create account"
+}
